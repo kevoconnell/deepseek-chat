@@ -51,7 +51,7 @@ psql -d ollama_chat -f src/lib/db/migrations/001_initial.sql
 
 ## Running the Application
 
-1. Start Ollama (if not already running):
+1. Start Ollama (if not already running, pretty sure on mac it is by default):
 ```bash
 ollama serve
 ```
